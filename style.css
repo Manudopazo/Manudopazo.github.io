@@ -1,17 +1,17 @@
-body {
-background-color: green;
-color: burlywood;
-padding: 10px;
+body{
+	background-color:green;
+	color:burlywood;
+	padding:10px;
+	
 }
-
 #image {
-float: center;
+	float:left;
 }
 
 #description {
-float::right;
+	float:right;
 }
 
 #reviews {
-clear: both;
-}	
+	clear: both;
+}
